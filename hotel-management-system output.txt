@@ -1,0 +1,120 @@
+1. Add Customer
+2. Add Room
+3. Add Booking
+4. Show Customers
+5. Show Rooms
+6. Show Bookings
+7. Update Customer
+8. Update Room
+9. Update Booking
+10. Delete Customer
+11. Delete Room
+12. Delete Booking
+0. Exit
+Enter choice: 1
+Enter name: John Doe
+Enter phone: 1234567890
+Customer added successfully!
+
+1. Add Customer
+2. Add Room
+3. Add Booking
+4. Show Customers
+5. Show Rooms
+6. Show Bookings
+7. Update Customer
+8. Update Room
+9. Update Booking
+10. Delete Customer
+11. Delete Room
+12. Delete Booking
+0. Exit
+Enter choice: 2
+Enter room number: 101
+Enter room type: Single
+Enter price: 100.0
+Room added successfully!
+
+1. Add Customer
+2. Add Room
+3. Add Booking
+4. Show Customers
+5. Show Rooms
+6. Show Bookings
+7. Update Customer
+8. Update Room
+9. Update Booking
+10. Delete Customer
+11. Delete Room
+12. Delete Booking
+0. Exit
+Enter choice: 3
+Enter customer ID: 1
+Enter room ID: 1
+Enter check-in date (YYYY-MM-DD): 2024-06-20
+Enter check-out date (YYYY-MM-DD): 2024-06-25
+Booking added successfully!
+
+1. Add Customer
+2. Add Room
+3. Add Booking
+4. Show Customers
+5. Show Rooms
+6. Show Bookings
+7. Update Customer
+8. Update Room
+9. Update Booking
+10. Delete Customer
+11. Delete Room
+12. Delete Booking
+0. Exit
+Enter choice: 4
+Customers: [(1, 'John Doe', '1234567890')]
+
+1. Add Customer
+2. Add Room
+3. Add Booking
+4. Show Customers
+5. Show Rooms
+6. Show Bookings
+7. Update Customer
+8. Update Room
+9. Update Booking
+10. Delete Customer
+11. Delete Room
+12. Delete Booking
+0. Exit
+Enter choice: 5
+Rooms: [(1, '101', 'Single', 100.0, 0)]
+
+1. Add Customer
+2. Add Room
+3. Add Booking
+4. Show Customers
+5. Show Rooms
+6. Show Bookings
+7. Update Customer
+8. Update Room
+9. Update Booking
+10. Delete Customer
+11. Delete Room
+12. Delete Booking
+0. Exit
+Enter choice: 6
+Bookings: [(1, 1, 1, '2024-06-20', '2024-06-25')]
+
+1. Add Customer
+2. Add Room
+3. Add Booking
+4. Show Customers
+5. Show Rooms
+6. Show Bookings
+7. Update Customer
+8. Update Room
+9. Update Booking
+10. Delete Customer
+11. Delete Room
+12. Delete Booking
+0. Exit
+Enter choice: 0
+Exiting...
